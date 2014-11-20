@@ -1,0 +1,1 @@
+This is the PHP CodeIgniter MVC framework assignment from Coding Dojo.
